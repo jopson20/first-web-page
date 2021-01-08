@@ -1,10 +1,10 @@
-# Primera página WEB
+# First WEB page
 
 
-Primera pagina WEB diseñada como entrega para el programa de MINTIC 2022 por parte del Ministerio de Tecnologías de la Información y Comunicaciones. Como requisitos especiales, se solicitaba que la sección de noticias fuera alimentada a través de una API y que la información de la sección de integrantes se leyera a través de un archivo JSON. 
+First WEB page designed as an sprint for the program "MINTIC 2022" by the "Ministerio de Tecnologías de la Información y Comunicaciones". The special requirementes were to use an API to provide all the information to the News Section and to extract all the members data from a JSON file. 
 
 
-### Elaborado por:
+### Elaborated by:
 ```
 Alejandro Zapata Alzate
 Eduardo Malagón Puentes
